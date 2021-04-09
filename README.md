@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leeMarcus26
-- 👀 I’m interested in henan Finance Univeristy;
-- 🌱 I’m currently learning the c  programming  language;  
+- 👀 I’m interested in 
+- - 🌱 I’m currently learning the c  programming  language;  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
