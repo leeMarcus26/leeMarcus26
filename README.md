@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @leeMarcus26
 - 👀 I’m interested in 
-- - 🌱 I’m currently learning the c  programming  language;  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- - 🌱 I’m currently learning the JAVA and web;  
+- 💞️ I’m looking to collaborate on programming issues together in the next few days.
 
 <!---
 leeMarcus26/leeMarcus26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
